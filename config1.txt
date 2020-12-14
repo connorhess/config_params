@@ -1,1 +1,2 @@
 WIFI = False
+loops_until_send = 3
