@@ -1,3 +1,4 @@
 WIFI = False
 loops_until_send = 3
 Restart_after_loops = 4
+PRINT = True
