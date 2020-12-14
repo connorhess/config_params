@@ -1,5 +1,5 @@
-WIFI = False
-loops_until_send = 200
-Restart_after_loops = 4
-PRINT = True
-MAIL = True    #Controlls if email is sent
+WIFI : False
+loops_until_send : 200
+Restart_after_loops : 4
+PRINT : True
+MAIL : True
